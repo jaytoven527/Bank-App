@@ -1,0 +1,30 @@
+C:\Program Files\Ampps\www\PracticeApps\bin\Debug\net6.0\PracticeApps.exe
+C:\Program Files\Ampps\www\PracticeApps\bin\Debug\net6.0\PracticeApps.deps.json
+C:\Program Files\Ampps\www\PracticeApps\bin\Debug\net6.0\PracticeApps.runtimeconfig.json
+C:\Program Files\Ampps\www\PracticeApps\bin\Debug\net6.0\PracticeApps.dll
+C:\Program Files\Ampps\www\PracticeApps\bin\Debug\net6.0\PracticeApps.pdb
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.csproj.AssemblyReference.cache
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.AssemblyInfoInputs.cache
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.AssemblyInfo.cs
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.csproj.CoreCompileInputs.cache
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.dll
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\refint\PracticeApps.dll
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.pdb
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\PracticeApps.genruntimeconfig.cache
+C:\Program Files\Ampps\www\PracticeApps\obj\Debug\net6.0\ref\PracticeApps.dll
+C:\Program Files\Ampps\www\Practice C#\Bank App\bin\Debug\net6.0\PracticeApps.exe
+C:\Program Files\Ampps\www\Practice C#\Bank App\bin\Debug\net6.0\PracticeApps.deps.json
+C:\Program Files\Ampps\www\Practice C#\Bank App\bin\Debug\net6.0\PracticeApps.runtimeconfig.json
+C:\Program Files\Ampps\www\Practice C#\Bank App\bin\Debug\net6.0\PracticeApps.dll
+C:\Program Files\Ampps\www\Practice C#\Bank App\bin\Debug\net6.0\PracticeApps.pdb
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.AssemblyInfoInputs.cache
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.AssemblyInfo.cs
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.csproj.CoreCompileInputs.cache
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.dll
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\refint\PracticeApps.dll
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.pdb
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.genruntimeconfig.cache
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\ref\PracticeApps.dll
+C:\Program Files\Ampps\www\Practice C#\Bank App\obj\Debug\net6.0\PracticeApps.sourcelink.json
